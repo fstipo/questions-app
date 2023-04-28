@@ -18,3 +18,7 @@ const SingleQuestion = ({ title, info }) => {
     )
 }
 export default SingleQuestion
+
+
+
+// questions - app
